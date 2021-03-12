@@ -2,4 +2,4 @@
 
 Верстка макета blogin
 
-Demo - https://omarov-frontend.github.io/blogin/
+Demo - https://omarovfrontend.github.io/blogin/
